@@ -1,0 +1,8 @@
+
+
+.code {
+    display: flex;
+    justify-content: center;
+    padding: 15vh 20px 0;
+    box-sizing: border-box;
+}
